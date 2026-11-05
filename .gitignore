@@ -1,0 +1,19 @@
+# macOS / OS metadata
+.DS_Store
+._*
+
+# Editor temporary files
+*~
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Local secrets and credentials
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*credentials*.json
+*service-account*.json
